@@ -1,0 +1,8 @@
+c0-e1=string:23 # 单位的ID编码
+c0-e2=string:15 # 单位人员数量
+c0-e3=string:0  # 是否有vpn编号
+c0-e4=string:%E6%97%A0 # 无
+c0-e5=string:
+c0-e6=string:5765614 # ID
+
+c0-e45=string:5765658 ID

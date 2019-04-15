@@ -3,7 +3,7 @@ import time
 
 
 starttime = datetime.datetime.now()
-print starttime
+print str(starttime)
 
 isrun = True
 hour = 0
